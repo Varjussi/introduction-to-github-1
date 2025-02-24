@@ -1,0 +1,4 @@
+
+proc print data = SASHELP.CARS;
+  var HorsePower Invoice MPG_City;
+run;
